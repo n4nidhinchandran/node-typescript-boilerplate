@@ -1,4 +1,4 @@
-import add from '../add';
+import add from '@src/add';
 
 describe('This is a test', () => {
   it('should pass', () => {
